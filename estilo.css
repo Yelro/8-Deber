@@ -1,0 +1,43 @@
+.lead{
+	margin-top: 20px;
+}
+
+.imagenInf1{
+	margin: 5px;
+	padding-right: 5px;
+	width="320px"
+	float: left;	
+}
+
+.imagenInf2{
+	margin: 5px;
+	padding-right: 5px;
+	width="320px"
+}
+
+.imagenInf3{
+	margin: 5px;
+	padding-right: 5px;
+	width="320px"
+}
+
+.ima{
+	margin-left: 100px;
+	margin-top: 20px;
+}
+
+.jumbotron h2{
+	text-align: center;
+	color: #27EBDB;
+}
+
+.jumbotron h1{
+	color: #F03535;
+}
+
+.card-text{
+	text-align: justify;
+}
+
+
+
